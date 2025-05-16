@@ -19,3 +19,8 @@ Built with:
 
 ---
 
+# Add .env file as 
+```
+PINECONE_API_KEY=
+GOOGLE_API_KEY=
+```
