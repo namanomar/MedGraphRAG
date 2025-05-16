@@ -1,13 +1,13 @@
 # 🧠 Medical GraphRAG Assistant
 
-A Streamlit-based application that combines **Vector Search**, **Graph Reasoning**, and **LLM-based Answer Generation** to provide insightful answers to complex medical questions.
+A GraphRAG-based application that combines **Vector Search**, **Graph Reasoning**, and **LLM-based Answer Generation** to provide insightful answers to complex medical questions.
 
 Built with:
 - 🔍 Pinecone Vector DB
 - 🧬 Dgraph + MCTS for graph reasoning
 - 💡 Gemini LLM for concept extraction, QA, and answer polishing
 
-![alt text](image.png)
+![alt text](./images/image.png)
 ---
 
 ## 🚀 Features
